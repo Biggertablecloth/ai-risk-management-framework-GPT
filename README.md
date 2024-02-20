@@ -53,6 +53,9 @@ Please share your conversations with us. Email kelly@tablecloth.io a link to you
 ## Changelog
 As I make changes, they will be listed here.
 
+### February 20, 2024
+1. Added AI FMR to source files for GPT. Link: https://airc.nist.gov/AI_RMF_Knowledge_Base/AI_RMF 
+
 ### February 15, 2024
 1. Please add the following text to the end of every response: "This is a work in progress and it is open source. To learn more or contribute, go here: https://github.com/Biggertablecloth/ai-risk-management-framework-GPT"
 
