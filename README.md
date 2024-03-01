@@ -53,6 +53,9 @@ Please share your conversations with us. Email kelly@tablecloth.io a link to you
 ## Changelog
 As I make changes, they will be listed here.
 
+### March 1, 2024
+1. Instruction given: "Let's not be speculative. Let's be concise and let's focus our responses on what is present in the documents attached to this GPT."
+
 ### February 20, 2024
 1. Added AI FMR to source files for GPT. Link: https://airc.nist.gov/AI_RMF_Knowledge_Base/AI_RMF 
 
